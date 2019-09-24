@@ -23,6 +23,7 @@ https://github.com/alexandrosok/VueJs-Micro-Front-End-Menu
  <h3>Component Dependencies</h3>
 
  Components that will be needed ( They are already inside package.json of the main module)
+ 
 ```
 https://www.npmjs.com/settings/alexandrosok/packages
 ```
@@ -48,11 +49,13 @@ https://www.npmjs.com/settings/alexandrosok/packages
  ```
  $ cd Vuejs-Micro-FrontEnd-Experiment/src/
  ```
+ 
  <h3>Clone the Pages Module</h3> 
  
  ```
  $ git clone https://github.com/alexandrosok/VueJs-Micro-Front-End-Pages
 ```
+
  Install dependencies
  
 ```
@@ -61,9 +64,11 @@ https://www.npmjs.com/settings/alexandrosok/packages
 ```
 
  <h3>Clone the Menu Module</h3>
+ 
  ```
  $ git clone https://github.com/alexandrosok/VueJs-Micro-Front-End-Menu
 ```
+
  Install dependencies
  
  ```
