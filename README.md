@@ -34,6 +34,7 @@ https://www.npmjs.com/settings/alexandrosok/packages
  ```
  $ git clone https://github.com/alexandrosok/Vuejs-Micro-FrontEnd-Experiment
 ```
+
  Perform an npm install
  <br />
  
