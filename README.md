@@ -8,7 +8,7 @@ Repository List :
 https://github.com/alexandrosok/Vuejs-Micro-FrontEnd-Experiment
 ```
 
-<h3>Contains the Micro Front End for the Pages moduleM</h3>
+<h3>Contains the Micro Front End for the Pages module</h3>
 
 ```
 https://github.com/alexandrosok/VueJs-Micro-Front-End-Pages
