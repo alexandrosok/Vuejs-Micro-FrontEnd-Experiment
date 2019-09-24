@@ -25,12 +25,6 @@ npm start
 ```sh
 # renders all apps
 http://localhost:8080/
-
-# renders only react
-http://localhost:8080/menu
-
-# renders only vue
-http://localhost:8080/pages
 ```
 
  Micro Front End Modules:
