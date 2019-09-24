@@ -3,14 +3,18 @@
 Repository List : 
 
 <h3>Contains the main module and service "router"</h3>
+
 ```
 https://github.com/alexandrosok/Vuejs-Micro-FrontEnd-Experiment
 ```
+
 <h3>Contains the Micro Front End for the Pages moduleM</h3>
 ```
 https://github.com/alexandrosok/VueJs-Micro-Front-End-Pages
 ```
+
 <h3>Contains the Micro Front End for the Menu module</h3>
+
 ```
 https://github.com/alexandrosok/VueJs-Micro-Front-End-Menu
 ```
@@ -25,6 +29,7 @@ https://www.npmjs.com/settings/alexandrosok/packages
  <h2>How to Start the app </h2>
  
  Clone the main module
+ 
  ```
  $ git clone https://github.com/alexandrosok/Vuejs-Micro-FrontEnd-Experiment
 ```
@@ -42,10 +47,12 @@ https://www.npmjs.com/settings/alexandrosok/packages
  $ cd Vuejs-Micro-FrontEnd-Experiment/src/
  ```
  <h3>Clone the Pages Module</h3> 
+ 
  ```
  $ git clone https://github.com/alexandrosok/VueJs-Micro-Front-End-Pages
 ```
  Install dependencies
+ 
 ```
  $ cd VueJs-Micro-Front-End-Pages
  $ npm install
@@ -56,6 +63,7 @@ https://www.npmjs.com/settings/alexandrosok/packages
  $ git clone https://github.com/alexandrosok/VueJs-Micro-Front-End-Menu
 ```
  Install dependencies
+ 
  ```
  $ cd VueJs-Micro-Front-End-Menu
  $ npm install
